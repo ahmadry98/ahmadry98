@@ -57,11 +57,13 @@ The system allows an AI agent to coordinate computer-vision inference and determ
 
 ---
 
-### 👕 Swift
+### 👕 [Swift](https://github.com/sariomari/swift)
 
-Collaborative full-stack clothing-delivery application with mobile functionality, backend services, and real-time delivery tracking.
+Collaborative university project for a full-stack clothing-delivery application with mobile functionality, backend services, and real-time delivery tracking.
 
-Built as a team project with contributions across application features, backend integration, and delivery workflows.
+Worked as part of a team on application features, backend integration, and delivery workflows.
+
+[💻 View Repository](https://github.com/sariomari/swift)
 
 ---
 
@@ -70,8 +72,8 @@ Built as a team project with contributions across application features, backend 
 **Languages**  
 Python • C# • JavaScript • TypeScript • SQL • C/C++
 
-**Backend**  
-FastAPI • REST APIs • SQLAlchemy • Prisma • PostgreSQL
+**Backend & Testing**  
+FastAPI • REST APIs • SQLAlchemy • Prisma • PostgreSQL • pytest
 
 **Cloud & DevOps**  
 AWS • ECS Fargate • RDS • S3 • CloudFront • Docker • Kubernetes • Terraform • GitHub Actions
@@ -96,5 +98,4 @@ Teaching experience:
 
 ## 📫 Connect
 
-- GitHub: [@ahmadry98](https://github.com/ahmadry98)
-- LinkedIn: [Ahmadry98](https://www.linkedin.com/in/ahmadry98/)
+[LinkedIn](https://www.linkedin.com/in/ahmadry98/) • [DialedIn](https://www.dialedin.me/)
