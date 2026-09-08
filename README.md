@@ -97,4 +97,4 @@ Teaching experience:
 ## 📫 Connect
 
 - GitHub: [@ahmadry98](https://github.com/ahmadry98)
-- LinkedIn: [Add your LinkedIn URL here](https://www.linkedin.com/in/ahmadry98/)
+- LinkedIn: [Ahmadry98](https://www.linkedin.com/in/ahmadry98/)
