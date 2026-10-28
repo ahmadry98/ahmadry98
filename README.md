@@ -18,7 +18,9 @@ DialedIn combines equipment profiles, shot parameters, taste feedback, media ana
 
 **Tech:** React Native • Expo • TypeScript • Python • FastAPI • AWS Bedrock • S3 • DynamoDB • Docker • Kubernetes • Terraform
 
-[🌐 Live Website](https://www.dialedin.me/) • [💻 Backend](https://github.com/ahmadry98/DialedIn-Fursa) • [📱 Mobile App](https://github.com/ahmadry98/dialin-app)
+[🌐 Live Website](https://www.dialedin.me/)
+
+> 🔒 Backend and mobile application source code are private. DialedIn is a published product.
 
 ---
 
