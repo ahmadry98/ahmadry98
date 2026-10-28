@@ -57,6 +57,26 @@ The system allows an AI agent to coordinate computer-vision inference and determ
 
 ---
 
+### ⚙️ [NetStore](https://github.com/ahmadry98/Netstore)
+
+Concurrent in-memory TCP key-value server built in **C++20** as a systems-programming and portfolio project, developed and tested on macOS using POSIX sockets.
+
+**Engineering highlights:**
+
+- Simultaneous client sessions with `std::jthread` and mutex-protected command execution
+- RAII socket ownership, move semantics, completed-worker cleanup, and graceful Ctrl+C shutdown
+- Newline-based command framing, fragmented-input handling, partial sends, and command-size limits
+- Separate command parsing, execution, and storage components shared by the CLI and TCP server
+- Catch2 unit tests and Python TCP integration tests, built and run through CMake/CTest
+
+Supports `SET`, `GET`, `DELETE`, `EXISTS`, `SIZE`, and `EXIT`. A fixed worker pool with a bounded connection queue is currently in development; persistence, TTL, and performance benchmarking are planned.
+
+**Tech:** C++20 • POSIX Sockets • Multithreading • Mutexes • RAII • CMake • Catch2 • Python
+
+[💻 View Repository](https://github.com/ahmadry98/Netstore)
+
+---
+
 ### 👕 [Swift](https://github.com/sariomari/swift)
 
 Collaborative university project for a full-stack clothing-delivery application with mobile functionality, backend services, and real-time delivery tracking.
